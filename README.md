@@ -3,7 +3,7 @@
 - ⚡  I’m interested in working on impactful problems in the field of Data Science, Engineering and Analytics.
 - 😄  I’m currently upskilling my Data Engineer and Data Science skills in [Kaggle](https://www.kaggle.com/malikcorozo).
 - ⚡  In my free time i do Security Research at Hackerone & Bugcrowd, enthusiast of Ethical Hacking.
-- 📫  You can reach out to me on [LinkedIn](https://www.linkedin.com/in/malikcec/) or via email at [malikcorozo@gmail.com](mailto:email@malikcorozo@gmail.com)
+- 📫  You can reach out to me on [LinkedIn](https://www.linkedin.com/in/malikcec/)
 <!---
 <!--
 **Naielik/Naielik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
